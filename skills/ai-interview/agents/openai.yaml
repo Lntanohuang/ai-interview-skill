@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 面试练习"
+  short_description: "结合岗位要求与简历模拟面试，按回答智能追问，引用原话形成分项反馈与改进建议"
+  default_prompt: "使用 $ai-interview，根据我的目标岗位和简历开展模拟面试，每次问一题，并在结束后引用我的回答给出练习报告。"
